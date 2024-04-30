@@ -1,0 +1,98 @@
+{
+    "65a34019f2372": {
+        "username": "admin",
+        "email": "admin@gmail.com",
+        "password": "$2y$10$aygUGXbvfB2unyADpZljfOEgOkQoOOgDbPzuG9aP8omBiDPeyVsUG",
+        "isAdmin": true,
+        "amountOfMoneyInWallet": 1500,
+        "noOfCards": 10,
+        "cards": [
+            "Pikachu",
+            "Charizard",
+            "Bulbasaur",
+            "Squirtle",
+            "Caterpie",
+            "Weedle",
+            "Pidgey",
+            "Rattata",
+            "Spearow",
+            "Ekans"
+        ],
+        "id": "65a34019f2372"
+    },
+    "65a340437c017": {
+        "username": "Erica",
+        "email": "nyenjierica@gmail.com",
+        "password": "$2y$10$zmABA8vKEVHgHq3Pyu.3YO.rWTanuv.xYLFV.affANMJnIq6qbGh2",
+        "isAdmin": false,
+        "amountOfMoneyInWallet": 1052,
+        "noOfCards": 2,
+        "cards": [
+            "Ekans",
+            "Pikachu"
+        ],
+        "id": "65a340437c017"
+    },
+    "65a457c61cf0c": {
+        "username": "Jane",
+        "email": "nyenjierica@gmail.com",
+        "password": "$2y$10$1izKFYVoqGXJgrB2.nyBrOA39xI6\/sQSX3gJ1zygTVnBQ6QmTtfyK",
+        "isAdmin": false,
+        "amountOfMoneyInWallet": 1500,
+        "noOfCards": 0,
+        "cards": [],
+        "id": "65a457c61cf0c"
+    },
+    "65a48ab11778c": {
+        "username": "Nyce",
+        "email": "nungu@gmail.com",
+        "password": "$2y$10$C.Q5KDVjiGIDeR\/7gjTEV.CCxBkgBSghzr3qWrV5QLzWWqsAek5tK",
+        "isAdmin": false,
+        "amountOfMoneyInWallet": 14,
+        "noOfCards": 5,
+        "cards": [
+            "Pikachu",
+            "Charizard",
+            "Bulbasaur",
+            "Squirtle",
+            "Pikachu"
+        ],
+        "id": "65a48ab11778c"
+    },
+    "65ac8745dc594": {
+        "username": "Ati",
+        "email": "ati@gmail.com",
+        "password": "$2y$10$aTjrhhs74Y\/yil.PodrRPe5lv3Ir8wUv8pULaGATVfNheUr7Hmmm2",
+        "isAdmin": false,
+        "amountOfMoneyInWallet": 1500,
+        "noOfCards": 0,
+        "cards": [],
+        "id": "65ac8745dc594"
+    },
+    "65ad7a92ed6c1": {
+        "username": "Elsa",
+        "email": "nyenjierica@gmail.com",
+        "password": "$2y$10$0IFCmHdAs6N0luWThDZ4tOjH6xUL1WI6k\/kh3iZFB9.DyW4c\/fHvC",
+        "isAdmin": false,
+        "amountOfMoneyInWallet": 1500,
+        "noOfCards": 0,
+        "cards": [],
+        "id": "65ad7a92ed6c1"
+    },
+    "65ad7e76cea34": {
+        "username": "Judy",
+        "email": "nyenjierica@gmail.com",
+        "password": "$2y$10$PYgaYxX6g45o8Q1NA4UwQeoxC7sisZyR.S7yr\/SdNq4tiyLZ.znxG",
+        "isAdmin": false,
+        "amountOfMoneyInWallet": 344,
+        "noOfCards": 5,
+        "cards": [
+            "Caterpie",
+            "Weedle",
+            "Pidgey",
+            "Rattata",
+            "Spearow"
+        ],
+        "id": "65ad7e76cea34"
+    }
+}
